@@ -1,0 +1,217 @@
+{
+    "scripts": [
+        {
+            "size": 2386,
+            "gzip": 595,
+            "ratio": "0.249",
+            "content": "(function(){window._uid='';var B = window.B || {};B.comm = B.comm || {};B.comm.isAndroid = 0;B.comm."
+        },
+        {
+            "size": 14002,
+            "gzip": 2629,
+            "ratio": "0.188",
+            "content": "!function(t){function n(){return e[i]=e[i]||t.apply(this,arguments),e[i]}window.B=window.B||{};var e"
+        },
+        {
+            "size": 236,
+            "gzip": 114,
+            "ratio": "0.483",
+            "content": "!function(){document.addEventListener(\"touchstart\",function(){B=B||{},B.comm=B.comm||{},B.comm.enabl"
+        },
+        {
+            "size": 3876,
+            "gzip": 946,
+            "ratio": "0.244",
+            "content": "window.B=window.B||{},function(t){var a=function(){function a(t,a){m=\"virtual\",b.routeStatus={action"
+        },
+        {
+            "size": 6434,
+            "gzip": 1410,
+            "ratio": "0.219",
+            "content": "window.B=window.B||{},function(t){function a(){function a(){var t=location.href.match(/#(.*)$/),a=t?"
+        },
+        {
+            "size": 6582,
+            "gzip": 1437,
+            "ratio": "0.218",
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='91'][order='1']\")){A._setContainer(document.q"
+        },
+        {
+            "size": 10294,
+            "gzip": 1823,
+            "ratio": "0.177",
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='we_image'][order='2']\")){A._setContainer(docu"
+        },
+        {
+            "size": 3280,
+            "gzip": 822,
+            "ratio": "0.251",
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='17489'][order='3']\")){A._setContainer(documen"
+        },
+        {
+            "size": 522,
+            "gzip": 145,
+            "ratio": "0.278",
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='we_realtime'][order='8']\")){A._setContainer(d"
+        },
+        {
+            "size": 474,
+            "gzip": 145,
+            "ratio": "0.306",
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='20426'][order='9']\")){A._setContainer(documen"
+        },
+        {
+            "size": 3558,
+            "gzip": 674,
+            "ratio": "0.189",
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='14812'][order='10']\")){A._setContainer(docume"
+        },
+        {
+            "size": 3288,
+            "gzip": 823,
+            "ratio": "0.250",
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='22254'][order='11']\")){A._setContainer(docume"
+        },
+        {
+            "size": 190,
+            "gzip": 117,
+            "ratio": "0.616",
+            "content": "B.init(function() {/* 异步广告调用 */B.adHintShow = function() {$('.hint_common_restop').show();};});"
+        },
+        {
+            "size": 5834,
+            "gzip": 1234,
+            "ratio": "0.212",
+            "content": "B.comm.isShowInapp = 1;B.comm.path = \"\\/ssid=42527a6869646168616f746979616e9f61\";B.comm.logInfoList "
+        },
+        {
+            "size": 30,
+            "gzip": 35,
+            "ratio": "1.167",
+            "content": "B._fireReady();"
+        },
+        {
+            "size": 129236,
+            "gzip": 22749,
+            "ratio": "0.176",
+            "content": "var Zepto=function(){function t(t){return null==t?String(t):V[W.call(t)]||\"object\"}function e(e){ret"
+        },
+        {
+            "size": 508,
+            "gzip": 230,
+            "ratio": "0.453",
+            "content": "A.log.init({baiduid:'1525197B87567D417D9EC6327961F7F6',w:'0_10_沈傲君',t:'iphone',ref:'www_iphone',from"
+        },
+        {
+            "size": 5524,
+            "gzip": 1402,
+            "ratio": "0.254",
+            "content": "/*https域名转换工具*/B.https = B.https || {};B.https.domain = (function(){var list = {\"fclick.baidu.com\":\""
+        },
+        {
+            "size": 264224,
+            "gzip": 40176,
+            "ratio": "0.152",
+            "content": "!function(){function t(t,e){var n=t+\":\",r=document.createElement(\"test\"),o=r.style;return o.cssText="
+        },
+        {
+            "size": 58814,
+            "gzip": 9161,
+            "ratio": "0.156",
+            "content": "!function(){function htmlEncode(e){var t={\"&\":\"&amp;\",\"<\":\"&lt;\",\">\":\"&gt;\",'\"':\"&quot;\",\"'\":\"&#39;\""
+        },
+        {
+            "size": 113140,
+            "gzip": 19385,
+            "ratio": "0.171",
+            "content": "define(\"search/param\",[\"require\"],function(){function e(e,t){if(this.params={},!t){var n=n||$(\"#se-f"
+        },
+        {
+            "size": 28,
+            "gzip": 34,
+            "ratio": "1.214",
+            "content": "B._fireInit();"
+        },
+        {
+            "size": 1640,
+            "gzip": 486,
+            "ratio": "0.296",
+            "content": "try{!function(){function e(e,o,t,n){document.cookie=e+\"=\"+encodeURIComponent(o)+\";domain=\"+t+\";path="
+        },
+        {
+            "size": 5082,
+            "gzip": 1055,
+            "ratio": "0.208",
+            "content": "window.addEventListener('load',function(){/*config*/var config = {'moplus' :{'url' : 'http://127.0.0"
+        }
+    ],
+    "styles": [
+        {
+            "size": 40,
+            "gzip": 40,
+            "ratio": "1.000",
+            "content": "#page{display:none;}"
+        },
+        {
+            "size": 58678,
+            "gzip": 7401,
+            "ratio": "0.126",
+            "content": "@font-face{font-family:sicons;src:url(//m.baidu.com/static/search/iconfont/search_iconfont_128e950d."
+        },
+        {
+            "size": 124,
+            "gzip": 77,
+            "ratio": "0.621",
+            "content": "#page-hd {visibility: visible;}.result-loading {display:none;}"
+        },
+        {
+            "size": 3314,
+            "gzip": 555,
+            "ratio": "0.167",
+            "content": ".wa-bk-polysemy-hide {display: none;}.wa-bk-polysemy-greeting {height: 38px;border: solid 1px #ddd;b"
+        },
+        {
+            "size": 2140,
+            "gzip": 425,
+            "ratio": "0.199",
+            "content": ".wa-we-image-border .wa-we-image-box{overflow:hidden;}.wa-we-image-border .wa-we-image-abstract{line"
+        },
+        {
+            "size": 2040,
+            "gzip": 373,
+            "ratio": "0.183",
+            "content": ".wa-sigma-celebrity-rela-scroller{white-space:nowrap;}.wa-sigma-celebrity-rela-entity{display:inline"
+        },
+        {
+            "size": 254,
+            "gzip": 92,
+            "ratio": "0.362",
+            "content": ".wa-we-realtime-list-first{margin-top:3px;}.wa-we-realtime-abstract{margin-bottom:0;}.wa-we-realtime"
+        },
+        {
+            "size": 430,
+            "gzip": 128,
+            "ratio": "0.298",
+            "content": ".wa-offical-weibo-right{text-align: right;}.wa-offical-weibo-icon{padding-right: 8px;color: #999}.wa"
+        },
+        {
+            "size": 1518,
+            "gzip": 296,
+            "ratio": "0.195",
+            "content": ".wa-star-videolist .wa-star-videolist-poster {position: relative;overflow: hidden;}.wa-star-videolis"
+        },
+        {
+            "size": 2040,
+            "gzip": 373,
+            "ratio": "0.183",
+            "content": ".wa-sigma-celebrity-rela-scroller{white-space:nowrap;}.wa-sigma-celebrity-rela-entity{display:inline"
+        },
+        {
+            "size": 61602,
+            "gzip": 13433,
+            "ratio": "0.218",
+            "content": "#relativewords{text-align:left;background-color:#fff;margin:.12rem 0}.rw-title{font-size:17px;height"
+        }
+    ],
+    "images": []
+}

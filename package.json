@@ -1,0 +1,27 @@
+{
+  "name": "html-analyzer",
+  "version": "1.0.0",
+  "description": "html inlined resources size analyzer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AceMood/htmlAnalyzer.git"
+  },
+  "keywords": [
+    "html",
+    "analyzer"
+  ],
+  "author": "AceMood",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AceMood/htmlAnalyzer/issues"
+  },
+  "homepage": "https://github.com/AceMood/htmlAnalyzer#readme",
+  "dependencies": {
+    "htmlparser2": "^3.9.1",
+    "request": "^2.74.0"
+  }
+}

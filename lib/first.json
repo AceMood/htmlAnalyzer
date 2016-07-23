@@ -1,229 +1,182 @@
 {
-    "jsSize": "627.572kb",
-    "cssSize": "144.059kb",
+    "jsTotalByteSize": "312.479kb",
+    "cssTotalByteSize": "63.841kb",
     "scripts": [
         {
-            "size": 2386,
+            "byteSize": 1193,
             "gzip": 595,
-            "ratio": "24.937%",
             "content": "(function(){window._uid='';var B = window.B || {};B.comm = B.comm || {};B.comm.isAndroid = 0;B.comm."
         },
         {
-            "size": 14002,
+            "byteSize": 7001,
             "gzip": 2629,
-            "ratio": "18.776%",
             "content": "!function(t){function n(){return e[i]=e[i]||t.apply(this,arguments),e[i]}window.B=window.B||{};var e"
         },
         {
-            "size": 236,
+            "byteSize": 118,
             "gzip": 114,
-            "ratio": "48.305%",
             "content": "!function(){document.addEventListener(\"touchstart\",function(){B=B||{},B.comm=B.comm||{},B.comm.enabl"
         },
         {
-            "size": 3876,
+            "byteSize": 1938,
             "gzip": 946,
-            "ratio": "24.407%",
             "content": "window.B=window.B||{},function(t){var a=function(){function a(t,a){m=\"virtual\",b.routeStatus={action"
         },
         {
-            "size": 6434,
+            "byteSize": 3217,
             "gzip": 1410,
-            "ratio": "21.915%",
             "content": "window.B=window.B||{},function(t){function a(){function a(){var t=location.href.match(/#(.*)$/),a=t?"
         },
         {
-            "size": 6582,
+            "byteSize": 3377,
             "gzip": 1437,
-            "ratio": "21.832%",
             "content": "A.merge(function(){if (document.querySelector(\"[srcid='91'][order='1']\")){A._setContainer(document.q"
         },
         {
-            "size": 10296,
-            "gzip": 1824,
-            "ratio": "17.716%",
+            "byteSize": 5163,
+            "gzip": 1823,
             "content": "A.merge(function(){if (document.querySelector(\"[srcid='we_image'][order='2']\")){A._setContainer(docu"
         },
         {
-            "size": 3280,
+            "byteSize": 1674,
             "gzip": 821,
-            "ratio": "25.030%",
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='16202'][order='3']\")){A._setContainer(documen"
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='17619'][order='3']\")){A._setContainer(documen"
         },
         {
-            "size": 522,
+            "byteSize": 285,
+            "gzip": 151,
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='www_zhidao_normal'][order='8']\")){A._setConta"
+        },
+        {
+            "byteSize": 261,
             "gzip": 145,
-            "ratio": "27.778%",
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='we_realtime'][order='7']\")){A._setContainer(d"
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='we_realtime'][order='9']\")){A._setContainer(d"
         },
         {
-            "size": 474,
-            "gzip": 145,
-            "ratio": "30.591%",
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='20426'][order='8']\")){A._setContainer(documen"
+            "byteSize": 240,
+            "gzip": 146,
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='20426'][order='10']\")){A._setContainer(docume"
         },
         {
-            "size": 3552,
-            "gzip": 671,
-            "ratio": "18.891%",
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='14812'][order='9']\")){A._setContainer(documen"
-        },
-        {
-            "size": 3438,
-            "gzip": 851,
-            "ratio": "24.753%",
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='sam_wz_micro_video3'][order='10']\")){A._setCo"
-        },
-        {
-            "size": 3288,
+            "byteSize": 1678,
             "gzip": 823,
-            "ratio": "25.030%",
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='22253'][order='11']\")){A._setContainer(docume"
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='22254'][order='11']\")){A._setContainer(docume"
         },
         {
-            "size": 190,
+            "byteSize": 107,
             "gzip": 117,
-            "ratio": "61.579%",
             "content": "B.init(function() {/* 异步广告调用 */B.adHintShow = function() {$('.hint_common_restop').show();};});"
         },
         {
-            "size": 5852,
-            "gzip": 1248,
-            "ratio": "21.326%",
+            "byteSize": 2984,
+            "gzip": 1269,
             "content": "B.comm.isShowInapp = 1;B.comm.path = \"\\/ssid=42527a6869646168616f746979616e9f61\";B.comm.logInfoList "
         },
         {
-            "size": 30,
+            "byteSize": 15,
             "gzip": 35,
-            "ratio": "116.667%",
             "content": "B._fireReady();"
         },
         {
-            "size": 129236,
+            "byteSize": 64620,
             "gzip": 22749,
-            "ratio": "17.603%",
             "content": "var Zepto=function(){function t(t){return null==t?String(t):V[W.call(t)]||\"object\"}function e(e){ret"
         },
         {
-            "size": 508,
-            "gzip": 230,
-            "ratio": "45.276%",
-            "content": "A.log.init({baiduid:'78B89AE11BF16A46AC01A9CF8BF48715',w:'0_10_沈傲君',t:'iphone',ref:'www_iphone',from"
+            "byteSize": 259,
+            "gzip": 231,
+            "content": "A.log.init({baiduid:'8473574573521BC2D9315BEF05B26732',w:'0_10_沈傲君',t:'iphone',ref:'www_iphone',from"
         },
         {
-            "size": 5524,
+            "byteSize": 2910,
             "gzip": 1402,
-            "ratio": "25.380%",
             "content": "/*https域名转换工具*/B.https = B.https || {};B.https.domain = (function(){var list = {\"fclick.baidu.com\":\""
         },
         {
-            "size": 264224,
+            "byteSize": 133138,
             "gzip": 40176,
-            "ratio": "15.205%",
             "content": "!function(){function t(t,e){var n=t+\":\",r=document.createElement(\"test\"),o=r.style;return o.cssText="
         },
         {
-            "size": 58814,
+            "byteSize": 29579,
             "gzip": 9161,
-            "ratio": "15.576%",
             "content": "!function(){function htmlEncode(e){var t={\"&\":\"&amp;\",\"<\":\"&lt;\",\">\":\"&gt;\",'\"':\"&quot;\",\"'\":\"&#39;\""
         },
         {
-            "size": 113140,
+            "byteSize": 56832,
             "gzip": 19385,
-            "ratio": "17.134%",
             "content": "define(\"search/param\",[\"require\"],function(){function e(e,t){if(this.params={},!t){var n=n||$(\"#se-f"
         },
         {
-            "size": 28,
+            "byteSize": 14,
             "gzip": 34,
-            "ratio": "121.429%",
             "content": "B._fireInit();"
         },
         {
-            "size": 1640,
+            "byteSize": 820,
             "gzip": 486,
-            "ratio": "29.634%",
             "content": "try{!function(){function e(e,o,t,n){document.cookie=e+\"=\"+encodeURIComponent(o)+\";domain=\"+t+\";path="
         },
         {
-            "size": 5082,
+            "byteSize": 2555,
             "gzip": 1055,
-            "ratio": "20.760%",
             "content": "window.addEventListener('load',function(){/*config*/var config = {'moplus' :{'url' : 'http://127.0.0"
         }
     ],
     "styles": [
         {
-            "size": 40,
+            "byteSize": 20,
             "gzip": 40,
-            "ratio": "100.000%",
             "content": "#page{display:none;}"
         },
         {
-            "size": 58678,
+            "byteSize": 29339,
             "gzip": 7401,
-            "ratio": "12.613%",
             "content": "@font-face{font-family:sicons;src:url(//m.baidu.com/static/search/iconfont/search_iconfont_128e950d."
         },
         {
-            "size": 124,
+            "byteSize": 62,
             "gzip": 77,
-            "ratio": "62.097%",
             "content": "#page-hd {visibility: visible;}.result-loading {display:none;}"
         },
         {
-            "size": 3314,
+            "byteSize": 1657,
             "gzip": 555,
-            "ratio": "16.747%",
             "content": ".wa-bk-polysemy-hide {display: none;}.wa-bk-polysemy-greeting {height: 38px;border: solid 1px #ddd;b"
         },
         {
-            "size": 2140,
+            "byteSize": 1070,
             "gzip": 425,
-            "ratio": "19.860%",
             "content": ".wa-we-image-border .wa-we-image-box{overflow:hidden;}.wa-we-image-border .wa-we-image-abstract{line"
         },
         {
-            "size": 2040,
+            "byteSize": 1020,
             "gzip": 373,
-            "ratio": "18.284%",
             "content": ".wa-sigma-celebrity-rela-scroller{white-space:nowrap;}.wa-sigma-celebrity-rela-entity{display:inline"
         },
         {
-            "size": 254,
+            "byteSize": 42,
+            "gzip": 58,
+            "content": ".wa-zhidaonormal-fxhl{line-height:normal;}"
+        },
+        {
+            "byteSize": 127,
             "gzip": 92,
-            "ratio": "36.220%",
             "content": ".wa-we-realtime-list-first{margin-top:3px;}.wa-we-realtime-abstract{margin-bottom:0;}.wa-we-realtime"
         },
         {
-            "size": 430,
+            "byteSize": 215,
             "gzip": 128,
-            "ratio": "29.767%",
             "content": ".wa-offical-weibo-right{text-align: right;}.wa-offical-weibo-icon{padding-right: 8px;color: #999}.wa"
         },
         {
-            "size": 1518,
-            "gzip": 296,
-            "ratio": "19.499%",
-            "content": ".wa-star-videolist .wa-star-videolist-poster {position: relative;overflow: hidden;}.wa-star-videolis"
-        },
-        {
-            "size": 15336,
-            "gzip": 5012,
-            "ratio": "32.681%",
-            "content": ".wa-sam-wz-micro-video3-scroll-wrapper{overflow: hidden;position: relative;}.wa-sam-wz-micro-video3-"
-        },
-        {
-            "size": 2040,
+            "byteSize": 1020,
             "gzip": 373,
-            "ratio": "18.284%",
             "content": ".wa-sigma-celebrity-rela-scroller{white-space:nowrap;}.wa-sigma-celebrity-rela-entity{display:inline"
         },
         {
-            "size": 61602,
+            "byteSize": 30801,
             "gzip": 13433,
-            "ratio": "21.806%",
             "content": "#relativewords{text-align:left;background-color:#fff;margin:.12rem 0}.rw-title{font-size:17px;height"
         }
     ],

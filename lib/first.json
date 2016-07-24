@@ -1,6 +1,6 @@
 {
-    "jsTotalByteSize": "312.479kb",
-    "cssTotalByteSize": "63.841kb",
+    "jsTotalByteSize": "315.118kb",
+    "cssTotalByteSize": "64.541kb",
     "scripts": [
         {
             "byteSize": 1193,
@@ -39,23 +39,23 @@
         },
         {
             "byteSize": 1674,
-            "gzip": 821,
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='17619'][order='3']\")){A._setContainer(documen"
-        },
-        {
-            "byteSize": 285,
-            "gzip": 151,
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='www_zhidao_normal'][order='8']\")){A._setConta"
+            "gzip": 822,
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='17489'][order='3']\")){A._setContainer(documen"
         },
         {
             "byteSize": 261,
             "gzip": 145,
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='we_realtime'][order='9']\")){A._setContainer(d"
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='we_realtime'][order='7']\")){A._setContainer(d"
         },
         {
-            "byteSize": 240,
-            "gzip": 146,
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='20426'][order='10']\")){A._setContainer(docume"
+            "byteSize": 237,
+            "gzip": 145,
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='20426'][order='9']\")){A._setContainer(documen"
+        },
+        {
+            "byteSize": 1779,
+            "gzip": 673,
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='14812'][order='10']\")){A._setContainer(docume"
         },
         {
             "byteSize": 1678,
@@ -68,8 +68,8 @@
             "content": "B.init(function() {/* 异步广告调用 */B.adHintShow = function() {$('.hint_common_restop').show();};});"
         },
         {
-            "byteSize": 2984,
-            "gzip": 1269,
+            "byteSize": 2968,
+            "gzip": 1258,
             "content": "B.comm.isShowInapp = 1;B.comm.path = \"\\/ssid=42527a6869646168616f746979616e9f61\";B.comm.logInfoList "
         },
         {
@@ -83,9 +83,9 @@
             "content": "var Zepto=function(){function t(t){return null==t?String(t):V[W.call(t)]||\"object\"}function e(e){ret"
         },
         {
-            "byteSize": 259,
-            "gzip": 231,
-            "content": "A.log.init({baiduid:'8473574573521BC2D9315BEF05B26732',w:'0_10_沈傲君',t:'iphone',ref:'www_iphone',from"
+            "byteSize": 260,
+            "gzip": 229,
+            "content": "A.log.init({baiduid:'63C38C847F8B317A6B57561037FB81A6',w:'0_10_沈傲君',t:'iphone',ref:'www_iphone',from"
         },
         {
             "byteSize": 2910,
@@ -116,6 +116,11 @@
             "byteSize": 820,
             "gzip": 486,
             "content": "try{!function(){function e(e,o,t,n){document.cookie=e+\"=\"+encodeURIComponent(o)+\";domain=\"+t+\";path="
+        },
+        {
+            "byteSize": 1227,
+            "gzip": 680,
+            "content": "(function(){var scripts = [];$(document).ready(function() {scripts = $('script[src]');});B.onload(fu"
         },
         {
             "byteSize": 2555,
@@ -155,11 +160,6 @@
             "content": ".wa-sigma-celebrity-rela-scroller{white-space:nowrap;}.wa-sigma-celebrity-rela-entity{display:inline"
         },
         {
-            "byteSize": 42,
-            "gzip": 58,
-            "content": ".wa-zhidaonormal-fxhl{line-height:normal;}"
-        },
-        {
             "byteSize": 127,
             "gzip": 92,
             "content": ".wa-we-realtime-list-first{margin-top:3px;}.wa-we-realtime-abstract{margin-bottom:0;}.wa-we-realtime"
@@ -168,6 +168,11 @@
             "byteSize": 215,
             "gzip": 128,
             "content": ".wa-offical-weibo-right{text-align: right;}.wa-offical-weibo-icon{padding-right: 8px;color: #999}.wa"
+        },
+        {
+            "byteSize": 759,
+            "gzip": 296,
+            "content": ".wa-star-videolist .wa-star-videolist-poster {position: relative;overflow: hidden;}.wa-star-videolis"
         },
         {
             "byteSize": 1020,

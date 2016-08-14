@@ -3,6 +3,6 @@
   "report": {
     "dir": "./first.json",
     "format": "json",
-    "contentMaxLength": 100
+    "contentMaxLength": 200
   }
 }

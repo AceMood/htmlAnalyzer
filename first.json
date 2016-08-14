@@ -1,61 +1,61 @@
 {
-    "jsTotalByteSize": "310.838kb",
-    "cssTotalByteSize": "62.845kb",
+    "jsTotalByteSize": "345.706kb",
+    "cssTotalByteSize": "64.058kb",
     "scripts": [
         {
-            "byteSize": 1193,
-            "gzip": 595,
-            "content": "(function(){window._uid='';var B = window.B || {};B.comm = B.comm || {};B.comm.isAndroid = 0;B.comm."
+            "byteSize": 1269,
+            "gzip": 634,
+            "content": "(function(){window._uid='';var B = window.B || {};B.comm = B.comm || {};B.comm.isAndroid = 0;B.comm.isShwoCallBaiduApp = 0;B.comm.lsConf={lsSuportKey:'lssp',lsVersionKey:'lsv',lsPrefix:'wise_se_'};win"
         },
         {
             "byteSize": 7001,
             "gzip": 2629,
-            "content": "!function(t){function n(){return e[i]=e[i]||t.apply(this,arguments),e[i]}window.B=window.B||{};var e"
+            "content": "!function(t){function n(){return e[i]=e[i]||t.apply(this,arguments),e[i]}window.B=window.B||{};var e=B.search=B.search||{},i=\"eventManager\";n.apply(this,[])}(function(){function t(t,n){try{t.apply(thi"
         },
         {
             "byteSize": 118,
             "gzip": 114,
-            "content": "!function(){document.addEventListener(\"touchstart\",function(){B=B||{},B.comm=B.comm||{},B.comm.enabl"
+            "content": "!function(){document.addEventListener(\"touchstart\",function(){B=B||{},B.comm=B.comm||{},B.comm.enableTotop=!1},!1)}();"
         },
         {
             "byteSize": 1938,
             "gzip": 946,
-            "content": "window.B=window.B||{},function(t){var a=function(){function a(t,a){m=\"virtual\",b.routeStatus={action"
+            "content": "window.B=window.B||{},function(t){var a=function(){function a(t,a){m=\"virtual\",b.routeStatus={action:\"push\",type:\"virtual\"};var e=t;if(e)if(\"base\"==t){for(var r in y)l.remove(y[r]);l.set(t,a)}else l.s"
         },
         {
             "byteSize": 3217,
             "gzip": 1410,
-            "content": "window.B=window.B||{},function(t){function a(){function a(){var t=location.href.match(/#(.*)$/),a=t?"
+            "content": "window.B=window.B||{},function(t){function a(){function a(){var t=location.href.match(/#(.*)$/),a=t?t[0]:\"\";return 0===a.indexOf(\"#%7C\")&&(a=a.replace(/%7C/,\"|\")),a||\"\"}function e(t){t&&t.last&&\"base\""
         },
         {
             "byteSize": 3377,
             "gzip": 1437,
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='91'][order='1']\")){A._setContainer(document.q"
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='91'][order='1']\")){A._setContainer(document.querySelector(\"[srcid='91'][order='1']\"),true);}else{A._setContainer(document.querySelector(\"[srcid='"
         },
         {
-            "byteSize": 5163,
-            "gzip": 1823,
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='we_image'][order='2']\")){A._setContainer(docu"
+            "byteSize": 5542,
+            "gzip": 2004,
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='we_image'][order='2']\")){A._setContainer(document.querySelector(\"[srcid='we_image'][order='2']\"),true);}else{A._setContainer(document.querySelect"
         },
         {
             "byteSize": 1674,
-            "gzip": 817,
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='30322'][order='3']\")){A._setContainer(documen"
-        },
-        {
-            "byteSize": 285,
-            "gzip": 151,
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='www_zhidao_normal'][order='8']\")){A._setConta"
+            "gzip": 818,
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='30325'][order='3']\")){A._setContainer(document.querySelector(\"[srcid='30325'][order='3']\"),true);}else{A._setContainer(document.querySelector(\"[s"
         },
         {
             "byteSize": 261,
             "gzip": 145,
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='we_realtime'][order='9']\")){A._setContainer(d"
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='we_realtime'][order='7']\")){A._setContainer(document.querySelector(\"[srcid='we_realtime'][order='7']\"),true);}else{A._setContainer(document.query"
         },
         {
-            "byteSize": 240,
-            "gzip": 146,
-            "content": "A.merge(function(){if (document.querySelector(\"[srcid='20426'][order='10']\")){A._setContainer(docume"
+            "byteSize": 237,
+            "gzip": 145,
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='20426'][order='9']\")){A._setContainer(document.querySelector(\"[srcid='20426'][order='9']\"),true);}else{A._setContainer(document.querySelector(\"[s"
+        },
+        {
+            "byteSize": 1779,
+            "gzip": 674,
+            "content": "A.merge(function(){if (document.querySelector(\"[srcid='14812'][order='10']\")){A._setContainer(document.querySelector(\"[srcid='14812'][order='10']\"),true);}else{A._setContainer(document.querySelector(\""
         },
         {
             "byteSize": 107,
@@ -63,9 +63,9 @@
             "content": "B.init(function() {/* 异步广告调用 */B.adHintShow = function() {$('.hint_common_restop').show();};});"
         },
         {
-            "byteSize": 2982,
-            "gzip": 1258,
-            "content": "B.comm.isShowInapp = 1;B.comm.path = \"\\/ssid=42527a6869646168616f746979616e9f61\";B.comm.logInfoList "
+            "byteSize": 3088,
+            "gzip": 1313,
+            "content": "B.comm.isShowInapp = 1;B.comm.actualResultLang = \"zh\";B.comm.path = \"\\/ssid=42527a6869646168616f746979616e9f61\";B.comm.logInfoList = {};B.comm.from = \"0\";B.comm.ssid = \"42527a6869646168616f746979616e9"
         },
         {
             "byteSize": 15,
@@ -73,34 +73,34 @@
             "content": "B._fireReady();"
         },
         {
-            "byteSize": 64620,
-            "gzip": 22749,
-            "content": "var Zepto=function(){function t(t){return null==t?String(t):V[W.call(t)]||\"object\"}function e(e){ret"
+            "byteSize": 64678,
+            "gzip": 22765,
+            "content": "var Zepto=function(){function t(t){return null==t?String(t):V[W.call(t)]||\"object\"}function e(e){return\"function\"==t(e)}function n(t){return null!=t&&t==t.window}function i(t){return null!=t&&t.nodeTy"
         },
         {
             "byteSize": 259,
             "gzip": 230,
-            "content": "A.log.init({baiduid:'1169F9884D218C5517681A56EA732AC4',w:'0_10_沈傲君',t:'iphone',ref:'www_iphone',from"
+            "content": "A.log.init({baiduid:'D5D223C7BFA566143B6AAF166354BB6D',w:'0_10_沈傲君',t:'iphone',ref:'www_iphone',from:'0',ssid:'42527a6869646168616f746979616e9f61',uid:'0',lid:'2607749794146635863',bd_page_type:'1',pu"
         },
         {
-            "byteSize": 2910,
-            "gzip": 1402,
-            "content": "/*https域名转换工具*/B.https = B.https || {};B.https.domain = (function(){var list = {\"fclick.baidu.com\":\""
+            "byteSize": 4696,
+            "gzip": 2125,
+            "content": "/*https域名转换工具*/B.https = B.https || {};B.https.domain = (function(){var list = {\"fclick.baidu.com\":\"https://sp0.baidu.com/-rU_dTmfKgQFm2e88IuM_a\",\"sestat.baidu.com\":\"https://sp1.baidu.com/5b1ZeDe5KgQF"
         },
         {
-            "byteSize": 133138,
-            "gzip": 40176,
-            "content": "!function(){function t(t,e){var n=t+\":\",r=document.createElement(\"test\"),o=r.style;return o.cssText="
+            "byteSize": 145171,
+            "gzip": 43497,
+            "content": "!function(){function t(t,e){var n=t+\":\",r=document.createElement(\"test\"),o=r.style;return o.cssText=n+e,-1!==o[t].indexOf(e)}if(!t(\"display\",\"-webkit-flex\")||/MQQBrowser/i.test(navigator.userAgent)&&/"
         },
         {
-            "byteSize": 29579,
-            "gzip": 9161,
-            "content": "!function(){function htmlEncode(e){var t={\"&\":\"&amp;\",\"<\":\"&lt;\",\">\":\"&gt;\",'\"':\"&quot;\",\"'\":\"&#39;\""
+            "byteSize": 30172,
+            "gzip": 9406,
+            "content": "!function(){function htmlEncode(e){var t={\"&\":\"&amp;\",\"<\":\"&lt;\",\">\":\"&gt;\",'\"':\"&quot;\",\"'\":\"&#39;\"},s=function(e){return t[e]};return e.replace(/[&<>\"']/g,s)}function getCurrentRelativeUrl(){return "
         },
         {
-            "byteSize": 56832,
-            "gzip": 19385,
-            "content": "define(\"search/param\",[\"require\"],function(){function e(e,t){if(this.params={},!t){var n=n||$(\"#se-f"
+            "byteSize": 58346,
+            "gzip": 19790,
+            "content": "define(\"search/param\",[\"require\"],function(){function e(e,t){if(this.params={},!t){var o=o||$(\"#se-form\");if(0==o.length&&(o=$(\"#se-form2\")),!o.length)return;index_form_data=o.serializeArray();for(var"
         },
         {
             "byteSize": 14,
@@ -110,12 +110,32 @@
         {
             "byteSize": 820,
             "gzip": 486,
-            "content": "try{!function(){function e(e,o,t,n){document.cookie=e+\"=\"+encodeURIComponent(o)+\";domain=\"+t+\";path="
+            "content": "try{!function(){function e(e,o,t,n){document.cookie=e+\"=\"+encodeURIComponent(o)+\";domain=\"+t+\";path=/;expires=\"+n.toGMTString()+\";\"}function o(){e(r=r.lsVersionKey,\"\",document.domain,t),e(r.lsSuportKe"
+        },
+        {
+            "byteSize": 8890,
+            "gzip": 4692,
+            "content": "!(function () {function removeUseless(t,e){for(var o=Object.keys(e),i=0;i<o.length;i++)t.indexOf(o[i]+\"\")<0&&t.indexOf(+o[i])<0&&delete e[o[i]]}function verifyBanner(t,e,o){var i,s=!0;B.ls.enabled&&(i"
+        },
+        {
+            "byteSize": 969,
+            "gzip": 480,
+            "content": "B.comm.zbBanner = new Object();B.comm.zbBanner.switch = '1';B.comm.zbBanner.startTime = '20160805';B.comm.zbBanner.endTime = '20160823';B.comm.zbBanner.name = 'aoyunhui0805jieguoye';B.comm.zbBanner.io"
+        },
+        {
+            "byteSize": 6568,
+            "gzip": 3590,
+            "content": "B.onload(function(){if(0!==B.comm.zbBanner.switch){var e=0,n=\"cyu55\",o=\"\",t=\"\",i=\"\";if(!document.getElementById(\"banner_call\")){if(i=1==B.comm.zbBanner.isAndroid?B.comm.zbBanner.android:B.comm.zbBanne"
+        },
+        {
+            "byteSize": 1242,
+            "gzip": 694,
+            "content": "(function(){var scripts = [];$(document).ready(function() {scripts = $('script[src]');});B.onload(function() {function getParenturl(){var url;if(parent !== window){try{url = parent.location.href;}catc"
         },
         {
             "byteSize": 2555,
             "gzip": 1055,
-            "content": "window.addEventListener('load',function(){/*config*/var config = {'moplus' :{'url' : 'http://127.0.0"
+            "content": "window.addEventListener('load',function(){/*config*/var config = {'moplus' :{'url' : 'http://127.0.0.1:6259/getapn?','newurl' : 'http://127.0.0.1:40310/getapn?','params' : {'callback' : 'getapn','mcmd"
         }
     ],
     "styles": [
@@ -125,9 +145,9 @@
             "content": "#page{display:none;}"
         },
         {
-            "byteSize": 29339,
-            "gzip": 7401,
-            "content": "@font-face{font-family:sicons;src:url(//m.baidu.com/static/search/iconfont/search_iconfont_128e950d."
+            "byteSize": 29663,
+            "gzip": 7454,
+            "content": "@font-face{font-family:sicons;src:url(//m.baidu.com/static/search/iconfont/search_iconfont_128e950d.eot);src:url(//m.baidu.com/static/search/iconfont/search_iconfont_128e950d.eot#iefix) format('embedd"
         },
         {
             "byteSize": 62,
@@ -137,38 +157,39 @@
         {
             "byteSize": 1657,
             "gzip": 555,
-            "content": ".wa-bk-polysemy-hide {display: none;}.wa-bk-polysemy-greeting {height: 38px;border: solid 1px #ddd;b"
+            "content": ".wa-bk-polysemy-hide {display: none;}.wa-bk-polysemy-greeting {height: 38px;border: solid 1px #ddd;border-bottom-width: 0;overflow: hidden;-webkit-user-select: none;user-select: none;}.wa-bk-polysemy-"
         },
         {
-            "byteSize": 1070,
-            "gzip": 425,
-            "content": ".wa-we-image-border .wa-we-image-box{overflow:hidden;}.wa-we-image-border .wa-we-image-abstract{line"
+            "byteSize": 1135,
+            "gzip": 438,
+            "content": ".wa-we-image-border .wa-we-image-box{overflow:hidden;}.wa-we-image-border .wa-we-image-abstract{line-height:21px;padding: 6px 10px;}.wa-we-image-border .wa-we-image-imgs{/*width:100%;*//*display:inlin"
         },
         {
             "byteSize": 1020,
             "gzip": 373,
-            "content": ".wa-sigma-celebrity-rela-scroller{white-space:nowrap;}.wa-sigma-celebrity-rela-entity{display:inline"
-        },
-        {
-            "byteSize": 42,
-            "gzip": 58,
-            "content": ".wa-zhidaonormal-fxhl{line-height:normal;}"
+            "content": ".wa-sigma-celebrity-rela-scroller{white-space:nowrap;}.wa-sigma-celebrity-rela-entity{display:inline-block;vertical-align:top;}.wa-sigma-celebrity-rela-entity:first-child{padding-left:0px;}.wa-sigma-c"
         },
         {
             "byteSize": 127,
             "gzip": 92,
-            "content": ".wa-we-realtime-list-first{margin-top:3px;}.wa-we-realtime-abstract{margin-bottom:0;}.wa-we-realtime"
+            "content": ".wa-we-realtime-list-first{margin-top:3px;}.wa-we-realtime-abstract{margin-bottom:0;}.wa-we-realtime-bottom{margin-bottom:6px;}"
         },
         {
             "byteSize": 215,
             "gzip": 128,
-            "content": ".wa-offical-weibo-right{text-align: right;}.wa-offical-weibo-icon{padding-right: 8px;color: #999}.wa"
+            "content": ".wa-offical-weibo-right{text-align: right;}.wa-offical-weibo-icon{padding-right: 8px;color: #999}.wa-offical-weibo-vip-1{padding-right: 2px;color: #3388ff;}.wa-offical-weibo-vip-2{padding-right: 2px;c"
         },
         {
-            "byteSize": 30801,
-            "gzip": 13433,
-            "content": "#relativewords{text-align:left;background-color:#fff;margin:.12rem 0}.rw-title{font-size:17px;height"
+            "byteSize": 759,
+            "gzip": 296,
+            "content": ".wa-star-videolist .wa-star-videolist-poster {position: relative;overflow: hidden;}.wa-star-videolist .wa-star-videolist-poster .wa-star-videolist-info {position: relative;margin-top: -24px;height: 14"
+        },
+        {
+            "byteSize": 30937,
+            "gzip": 13458,
+            "content": "#relativewords{text-align:left;background-color:#fff;margin:.12rem 0}.rw-title{font-size:17px;height:41px;line-height:45px;color:#262626;padding:0 .21rem;border-bottom:1px solid #f0f0f0}.rw-list{paddi"
         }
     ],
-    "images": []
+    "images": [],
+    "afterGzip": "112.759kb"
 }
